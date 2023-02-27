@@ -4,7 +4,6 @@
 
  A fullstack software engineer. I love learning, collaborating, building applications & discussing new product ideas. I get excited when I am part of an amazing team solving big problems.
 
-- 🔭 I’m currently learning: _Container Orchestration_
 - 💬 Ask me anything about:   _Java|Springboot, Angular 2+, Typescript_
 - 🧔🏾‍♂️ Pronouns: _he/him_
 - 👌🏾 Todo: _One of my dreams is to visit Germany as part of a work-and-travel experience._
