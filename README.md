@@ -2,7 +2,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/23294830/199226757-97a94403-058e-498a-8e9f-627d0c9981d2.png" alt="james" width=30% style=""/>
 
- A fullstack software engineer. I love learning, collaborating, building & discussing new product ideas. I get excited when I am part of an amazing team solving big problems.
+ A fullstack software engineer. I love learning, collaborating, building & discussing new ideas. I get excited when I am part of an amazing team solving big problems.
 
 - 💬 Ask me anything about:   _Java|Springboot, Angular, Typescript_
 - 🧔🏾‍♂️ Pronouns: _he/him_
